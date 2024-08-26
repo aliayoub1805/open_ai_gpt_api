@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="762b7672-ab77-4665-bb5a-0a51100c5247" name="Changes" comment="add a new files" />
+    <list default="true" id="762b7672-ab77-4665-bb5a-0a51100c5247" name="Changes" comment="add a new files">
+      <change beforePath="$PROJECT_DIR$/open_ai_chat_gpt_api_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/open_ai_chat_gpt_api_app/models.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
